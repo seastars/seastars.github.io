@@ -1,4 +1,5 @@
 # seastars.github.io
-seastars
+
+ Product catalogue seastars
 
 https://seastars.github.io/
